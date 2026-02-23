@@ -1,2 +1,5 @@
 # list-of-linear-algebra-software
-Sistematic list of 50+ libraries for linear algebra
+
+For the full list see
+
+- https://docs.google.com/spreadsheets/d/1csIDeum_AF78sFl4u7qHEBSkvjukoEQS556uEOrcCZk/edit?usp=sharing
